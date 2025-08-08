@@ -1,0 +1,8 @@
+/node_modules
+cypress/downloads
+cypress/videos/.*mp4
+cypress/screenshots
+*.log
+*.xml
+*.html
+.vscode
