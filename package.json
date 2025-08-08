@@ -1,4 +1,11 @@
 {
+  "name": "cypress-demo",
+  "version": "1.0",
+  "description": "Training framework for Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
   "devDependencies": {
     "cypress": "^14.5.4"
   }
